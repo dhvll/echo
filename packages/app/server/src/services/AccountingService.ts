@@ -4,6 +4,7 @@ import {
   GeminiModels,
   OpenRouterModels,
   GroqModels,
+  VercelGatewayModels,
   OpenAIImageModels,
   SupportedOpenAIResponseToolPricing,
   SupportedModel,
@@ -28,6 +29,7 @@ export const ALL_SUPPORTED_MODELS: SupportedModel[] = [
   ...GeminiModels,
   ...OpenRouterModels,
   ...GroqModels,
+  ...VercelGatewayModels,
 ];
 
 // Handle image models separately since they have different pricing structure

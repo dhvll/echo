@@ -6,6 +6,7 @@ import { EchoConfig, EchoResult } from './types';
 import { createEchoAnthropic } from 'ai-providers/anthropic';
 import { createEchoGoogle } from 'ai-providers/google';
 import { createEchoOpenAI } from 'ai-providers/openai';
+import { createEchoVercelGateway } from 'ai-providers/vercel-gateway';
 
 import {
   CreateOauthTokenResponse,
@@ -114,5 +115,6 @@ export default function Echo(config: EchoConfig): EchoResult {
     anthropic: createEchoAnthropic(config),
     google: createEchoGoogle(config),
     groq: createEchoGroq(config),
+    vercelGateway: createEchoVercelGateway(config),
   };
 }

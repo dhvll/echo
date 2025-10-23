@@ -50,12 +50,6 @@ const createChatModelToProviderMapping = (): Record<string, ProviderType> => {
         case 'OpenRouter':
           mapping[modelConfig.model_id] = ProviderType.OPENROUTER;
           break;
-        case 'Groq':
-          mapping[modelConfig.model_id] = ProviderType.GROQ;
-          break;
-        case 'VercelGateway':
-          mapping[modelConfig.model_id] = ProviderType.VERCEL_GATEWAY;
-          break;
         // Add other providers as needed
         default:
           // Skip models with unsupported providers
@@ -186,10 +180,6 @@ export const getProvider = (
       return new VertexAIProvider(stream, model);
     case ProviderType.OPENAI_VIDEOS:
       return new OpenAIVideoProvider(stream, model);
-    case ProviderType.GROQ:
-      return new GroqProvider(stream, model);
-    case ProviderType.VERCEL_GATEWAY:
-      return new VercelGatewayProvider(stream, model);
     default:
       throw new Error(`Unknown provider type: ${type}`);
   }

@@ -114,7 +114,5 @@ export default function Echo(config: EchoConfig): EchoResult {
     openai: createEchoOpenAI(config),
     anthropic: createEchoAnthropic(config),
     google: createEchoGoogle(config),
-    groq: createEchoGroq(config),
-    vercelGateway: createEchoVercelGateway(config),
   };
 }

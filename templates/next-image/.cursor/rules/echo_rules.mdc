@@ -1,7 +1,6 @@
-## Description: Guidelines and best practices for building Echo Next.js Image Generation applications, including API routes, file handling, billing, and security
-globs: /**/*.ts,/**/*.tsx,**/*.js,**/*.jsx
+## Description: Guidelines and best practices for building Echo Next.js Image Generation applications, including API routes, file handling, billing, and security globs: /**/*.ts,/**/*.tsx,**/*.js,**/*.jsx
 
-# Echo Next.js Image Generation Guidelines
+## Echo Next.js Image Generation Guidelines
 
 ## SDK Initialization
 

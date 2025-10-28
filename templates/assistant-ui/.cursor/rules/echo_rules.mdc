@@ -1,7 +1,6 @@
-## Description : Guidelines and best practices for building Echo Assistant UI applications with Next.js, including streaming, component patterns, and tool handling
-globs: /**/*.ts,/**/*.tsx,**/*.js,**/*.jsx
+## Description : Guidelines and best practices for building Echo Assistant UI applications with Next.js, including streaming, component patterns, and tool handling globs: /**/*.ts,/**/*.tsx,**/*.js,**/*.jsx
 
-# Echo Assistant UI Guidelines
+## Echo Assistant UI Guidelines
 
 ## SDK Initialization
 

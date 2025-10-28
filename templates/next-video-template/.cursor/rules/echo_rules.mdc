@@ -1,7 +1,6 @@
-## Description : Guidelines and best practices for building Echo Next.js Video Generation applications, including async processing, polling, and job management
-globs: /**/*.ts,/**/*.tsx,**/*.js,**/*.jsx
+## Description : Guidelines and best practices for building Echo Next.js Video Generation applications, including async processing, polling, and job management globs: /**/*.ts,/**/*.tsx,**/*.js,**/*.jsx
 
-# Echo Next.js Video Generation Guidelines
+## Echo Next.js Video Generation Guidelines
 
 ## SDK Initialization
 

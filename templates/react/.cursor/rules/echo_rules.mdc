@@ -1,7 +1,6 @@
-## Description: Guidelines and best practices for building Echo React (Vite) applications, including client OAuth, environment variables, and real-world examples
-globs: /**/*.ts,/**/*.tsx,**/*.js,**/*.jsx
+## Description: Guidelines and best practices for building Echo React (Vite) applications, including client OAuth, environment variables, and real-world examples globs: /**/*.ts,/**/*.tsx,**/*.js,**/*.jsx
 
-# Echo React (Vite) Guidelines
+## Echo React (Vite) Guidelines
 
 ## SDK Initialization
 

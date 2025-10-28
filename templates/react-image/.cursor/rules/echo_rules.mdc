@@ -1,7 +1,6 @@
-## Description: Guidelines and best practices for building Echo React Image Generation applications with Vite, including client OAuth, file handling, and validation
-globs: /**/*.ts,/**/*.tsx,**/*.js,**/*.jsx
+## Description: Guidelines and best practices for building Echo React Image Generation applications with Vite, including client OAuth, file handling, and validation globs: /**/*.ts,/**/*.tsx,**/*.js,**/*.jsx
 
-# Echo React Image Generation Guidelines
+## Echo React Image Generation Guidelines
 
 ## SDK Initialization
 

@@ -1,7 +1,6 @@
-## Description: Guidelines and best practices for building Echo React Chat applications with Vite, including client OAuth, streaming, and component patterns
-globs: /**/*.ts,/**/*.tsx,**/*.js,**/*.jsx
+## Description: Guidelines and best practices for building Echo React Chat applications with Vite, including client OAuth, streaming, and component patterns globs: /**/*.ts,/**/*.tsx,**/*.js,**/*.jsx
 
-# Echo React Chat Guidelines
+## Echo React Chat Guidelines
 
 ## SDK Initialization
 

@@ -1,7 +1,6 @@
-## Description : Guidelines and best practices for building Echo Next.js API Key Management applications, including secure key generation, database patterns, and authentication
-globs: /**/*.ts,/**/*.tsx,**/*.js,**/*.jsx
+## Description : Guidelines and best practices for building Echo Next.js API Key Management applications, including secure key generation, database patterns, and authentication globs: /**/*.ts,/**/*.tsx,**/*.js,**/*.jsx
 
-# Echo Next.js API Key Management Guidelines
+## Echo Next.js API Key Management Guidelines
 
 ## SDK Initialization
 

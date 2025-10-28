@@ -1,7 +1,6 @@
-## Description: Guidelines and best practices for building Echo Next.js applications, including server/client boundaries, environment variables, API routes, and real-world examples
-globs: /**/*.ts,/**/*.tsx,**/*.js,**/*.jsx
+## Description: Guidelines and best practices for building Echo Next.js applications, including server/client boundaries, environment variables, API routes, and real-world examples globs: /**/*.ts,/**/*.tsx,**/*.js,**/*.jsx
 
-# Echo Next.js Guidelines
+## Echo Next.js Guidelines
 
 ## SDK Initialization
 

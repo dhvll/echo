@@ -1,7 +1,6 @@
-## Description: Guidelines and best practices for building Echo Next.js Chat applications, including streaming, server/client boundaries, and chat UI patterns
-globs: /**/*.ts,/**/*.tsx,**/*.js,**/*.jsx
+## Description: Guidelines and best practices for building Echo Next.js Chat applications, including streaming, server/client boundaries, and chat UI patterns globs: /**/*.ts,/**/*.tsx,**/*.js,**/*.jsx
 
-# Echo Next.js Chat Guidelines
+## Echo Next.js Chat Guidelines
 
 ## SDK Initialization
 
